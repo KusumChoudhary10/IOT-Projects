@@ -7,7 +7,7 @@ This repo is where I explore embedded systems, sensors, and real-world applicati
 - 1.smart dustbin system
 
 ## 🛠️ Tech Used
-- Arduino uno
+- Arduino uno, esp8266
 - C/C++ (Arduino IDE)
 
 ## 🎯 Purpose
