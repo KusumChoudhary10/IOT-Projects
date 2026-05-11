@@ -43,9 +43,9 @@ The HC-SR04 ultrasonic sensor continuously measures the distance of nearby objec
 
 ## Team Members
 
-* [Member Name 1]
-* [Member Name 2]
-* [Member Name 3]
+* Kusum choudhary
+* Alisha kawalgi
+* Mahesh Kolte
 
 Developed as an engineering college project.
 
